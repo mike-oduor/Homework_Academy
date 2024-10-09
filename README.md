@@ -1,0 +1,1 @@
+This is my work for a hackathon competition by PLP Academy. I am creating a Learning Management System( LMS) for my startup; HOMEWORK ACADEMY. I have used HTML, CSS and JAVASCRIPT for system development. 
